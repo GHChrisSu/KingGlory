@@ -1,0 +1,7 @@
+d:\Projects\KingOfGlory\KingOfGlory.Host\bin\Debug\KingOfGlory.Host.exe.config
+d:\Projects\KingOfGlory\KingOfGlory.Host\bin\Debug\KingOfGlory.Host.exe
+d:\Projects\KingOfGlory\KingOfGlory.Host\bin\Debug\KingOfGlory.Host.pdb
+d:\Projects\KingOfGlory\KingOfGlory.Host\bin\Debug\Topshelf.dll
+d:\Projects\KingOfGlory\KingOfGlory.Host\obj\Debug\KingOfGlory.Host.csprojResolveAssemblyReference.cache
+d:\Projects\KingOfGlory\KingOfGlory.Host\obj\Debug\KingOfGlory.Host.exe
+d:\Projects\KingOfGlory\KingOfGlory.Host\obj\Debug\KingOfGlory.Host.pdb
